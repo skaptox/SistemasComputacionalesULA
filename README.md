@@ -1,8 +1,8 @@
 # SistemasComputacionalesULA
 
-##Flujograma
+## Flujograma
 
-[![Sistemas Computacionales](https://github.com/skaptox/SistemasComputacionalesULA "Sistemas Computacionales")](https://raw.githubusercontent.com/skaptox/SistemasComputacionalesULA/master/SistemasComputacionales.png "Sistemas Computacionales")
+![Sistemas Computacionales](SistemasComputacionales.png?raw=true "Title")
 
 ## Ciclo Básico
 
