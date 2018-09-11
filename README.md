@@ -74,7 +74,7 @@
 
 ### Proyecto de Grado *
 
-### Electivas del Profesional
+### [Electivas del Profesional](Electivas)
 - Bases Datos Avanzadas
 - Computación Gráfica
 - Computación Inteligente
