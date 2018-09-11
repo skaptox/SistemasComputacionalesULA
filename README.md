@@ -75,80 +75,19 @@
 ### Proyecto de Grado *
 
 ### Electivas del Profesional
-- Algoritmos Inteligentes para el Control de Procesos
-- Algoritmos para el Análisis de Imágenes en Teledetección *
-- Análisis de Decisiones
-- Aplicaciones de Procesadores en Control
-- Automatización 1
-- Automatización 2
-- Automatización 3
-- Base de Datos Avanzadas
-- Bioprocesos
-- Complejidad en Gerencia y Toma de Decisiones
+- Bases Datos Avanzadas
 - Computación Gráfica
 - Computación Inteligente
-- Control 1
-- Control 2
-- Control 3
-- Control Adaptativo
-- Control de Calidad
-- Control Robusto
-- Creatividad e Ingeniería
-- Decisiones Gerenciales
-- Dinámica de Sistemas
-- Dirección de Organizaciones
-- Diseño y Análisis de Experimentos
-- Economía Ecológica
 - Edumática
-- El Enfoque de Sistemas y el Problema del Desarrollo
-- Estocástica 3
-- Estocástica 4
-- Evaluación de Proyectos
-- Herramientas para Bioinformática
-- Historia del Control Automático
-- Identificación de Sistemas
-- Informática Industrial *
-- Instrumentación 2
-- Inteligencia Artificial Distribuida
-- Interacción Humano – Computadora
-- Introducción a la Robótica
-- Investigación de Operaciones 2
-- Investigación de Operaciones 3
-- Laboratorio 1 de Control
-- Laboratorio 2 de Control
-- Laboratorio de Instrumentación
-- Lenguajes de Programación
-- Lógica Computacional
-- Metodologías de Sistemas Tecno – Sociales
-- Métodos de Accesos Espacio – Temporales
-- Microprocesadores y Aplicaciones
-- Modelado de Organizaciones
-- Modelado de Sistemas Biofísicos y Fisiológicos
-- Modelado de Sistemas Socio – Económicos
-- Modelado Ecológico y Ambiental
-- Modelado y Evaluación Desempeño de Sistemas Computarizados
-- Modelado y Simulación 2
-- Modelado y Simulación de Redes de Computadoras
-- Modelado y Teorías de Desarrollo
-- Muestreo de Poblaciones Finitas
-- Pasantía Industrial *
-- Pasantías *
-- Planificación
-- Primera Electiva de Otra Carrera
-- Programación Paralela y Distribuida
-- Robótica Industrial
-- Robótica Móvil
-- Señales y Sistemas
-- Simulación de Organizaciones
-- Sistemas de Información
-- Sistemas de Información Geográfica
+- Inteligencia Artificial Dist
+- Interacción Humano Computadora
+- Introducción Robótica
+- Lenguaje Programación
+- Métodos Acceso Espacio Temp
+- Microprocesadores Aplicaciones
+- Modelado Evaluación Desempeño
+- Programación Paralela Dist
 - Sistemas Distribuidos
-- Sistemas Lógicos *
-- Sistemas No Lineales
-- Taller de Investigación de Operaciones
-- Tópicos de Control y Automatización **
-- Tópicos de Optimización 1 *
-- Tópicos de Optimización 2 *
-- Tópicos de Sistemas Dinámicos
-- Visión por Computadora
+- Sistemas Información
+- Visión Computadora
 - Visualización Científica
