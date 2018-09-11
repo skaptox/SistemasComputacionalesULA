@@ -6,27 +6,27 @@
 
 ## Ciclo Básico
 
-### Primer Semestre
+### [Primer Semestre](Primer Semestre)
 - Cálculo 10
 - Programación 1
 - Sistemas de Representación 10
 - Ingeniería de Sistemas
 - Electiva de Formación Integral
 
-### Segundo Semestre
+### [Segundo Semestre](Segundo Semestre)
 - Cálculo 20
 - Programación 2
 - Física 11
 - Introducción a los Procesos Químicos
-- Tercer Semestre
 
-### Cálculo 30
+### [Tercer Semestre](Tercer Semestre)
+- Cálculo 30
 - Arquitectura de Computadoras
 - Física 21
 - Mecánica Racional
 - Inglés – Lectura I
 
-### Cuarto Semestre
+### [Cuarto Semestre](Cuarto Semestre)
 - Cálculo 40
 - Programación 3
 - Estocástica 1
@@ -35,14 +35,14 @@
 
 ## Ciclo Formativo
 
-### Quinto Semestre
+### [Quinto Semestre](Quinto Semestre)
 - Estocástica 2
 - Investigación de Operaciones 1
 - Matemáticas Discretas
 - Matemáticas Especiales
 - Modelado de Sistemas Físicos
 
-### Sexto Semestre
+### [Sexto Semestre](Sexto Semestre)
 - Análisis Numérico
 - Diseño y Análisis de Algoritmos
 - Inducción al Servicio Comunitario *
@@ -52,20 +52,20 @@
 
 ## Ciclo profesional
 
-### Séptimo Semestre
+### [Séptimo Semestre](Septimo Semestre)
 - Base de Datos
 - Ingeniería del Software
 - Servicio Comunitario *
 - Sistemas Operativos
 - Teoría de la Computación
 
-### Octavo Semestre(Octavo%20Semestre)
+### [Octavo Semestre](Octavo Semestre)
 - Compiladores
 - Electiva 1
 - Inteligencia Artificial
 - Redes de Computadoras
 
-### Noveno Semestre
+### [Noveno Semestre](Noveno Semestre)
 - Electiva 2
 - Electiva 3
 - Preproyecto *
