@@ -39,7 +39,7 @@
 - Estocástica 2 [Probability Models and Axioms](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 - Investigación de Operaciones 1 [Operations Research](https://www.youtube.com/watch?v=WIWhQpR-CjY&list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
 - Matemáticas Discretas [Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
-- Matemáticas Especiales 
+- Matemáticas Especiales [Complex Variables](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PL5563BAB9EA968641) [Algebra Lineal](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C)
 - Modelado de Sistemas Físicos [Modeling Dynamic Systems](https://www.youtube.com/watch?v=vwso-xHLNGc&list=PL4VMBEQr3gME29eeHZyT_lDw3KCdAmwXR)
 
 ### [Sexto Semestre](Sexto%20Semestre)
