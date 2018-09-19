@@ -36,11 +36,11 @@
 ## Ciclo Formativo
 
 ### [Quinto Semestre](Quinto%20Semestre)
-- Estocástica 2
-- Investigación de Operaciones 1
+- Estocástica 2 [Probability Models and Axioms](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+- Investigación de Operaciones 1 [Operations Research](https://www.youtube.com/watch?v=WIWhQpR-CjY&list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
 - Matemáticas Discretas
 - Matemáticas Especiales
-- Modelado de Sistemas Físicos
+- Modelado de Sistemas Físicos [Modeling Dynamic Systems](https://www.youtube.com/watch?v=vwso-xHLNGc&list=PL4VMBEQr3gME29eeHZyT_lDw3KCdAmwXR)
 
 ### [Sexto Semestre](Sexto%20Semestre)
 - Análisis Numérico
